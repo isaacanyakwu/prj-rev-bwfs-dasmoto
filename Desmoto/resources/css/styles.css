@@ -10,7 +10,7 @@ h1
    font-weight:bold;
    color:khaki;
    text-align:center;
-   background-color:brown;
+   background-image: url("../pattern.jpeg");
 
   }
   .brushes
