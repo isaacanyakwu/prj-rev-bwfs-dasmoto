@@ -1,0 +1,46 @@
+﻿body
+{background-color:white;
+ border:solid;
+ border-color:black;
+}
+
+h1
+  {font-family:helvetica;
+   font-size:100px;
+   font-weight:bold;
+   color:khaki;
+   text-align:center;
+   background-color:brown;
+
+  }
+  .brushes
+  {background-color:mediumspringgreen;
+   font-family:helvetica;
+   font-size:32px;
+   color:White;
+   }
+  #p
+  {font-family:helvetica;
+   font-weight:bold;
+   color:Blue;
+  }
+  #p1
+  {font-family:helvetica;
+   font-weight:bold;
+   color:Blue;
+  }
+
+  #p2
+  {font-family:helvetica;
+   font-weight:bold;
+   color:Blue;
+  }
+
+   .frames
+  {background-color:lightcoral;
+
+   }
+     .paints
+  {background-color:skyblue;
+
+   }
